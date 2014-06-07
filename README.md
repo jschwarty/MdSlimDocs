@@ -1,4 +1,4 @@
-MdSlimWiki
+MdSlimDocs
 ==========
 
-A lightweight Wiki powered by Markdown and ASP.NET Web Pages.
+A lightweight Documentation site powered by Markdown and node.js.
