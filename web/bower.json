@@ -1,0 +1,19 @@
+{
+  "name": "MdSlimDocs",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jschwarty/MdSlimDocs",
+  "authors": [
+    "Justin Schwartzenberger"
+  ],
+  "license": "Apache License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.17"
+  }
+}
