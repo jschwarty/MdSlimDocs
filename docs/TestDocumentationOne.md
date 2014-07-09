@@ -14,4 +14,6 @@ Checking to see if this file becomes HTML and readable on the GitHub site.
 
 Don't let me down baby!
 
-A link to [Test Document Two](/TestDocumentTwo.md) right here.
+## Links Section
+
+A link to [Test Document Two](/docs/TestDocumentTwo.md) right here.
