@@ -1,4 +1,4 @@
-# Test Documentation One
+# Test Documentation One: [pretty neat]
 ## Our first .md test
 
 Checking to see if this file becomes HTML and readable on the GitHub site.
@@ -13,3 +13,5 @@ Checking to see if this file becomes HTML and readable on the GitHub site.
 > See, I told you it'd work.
 
 Don't let me down baby!
+
+A link to [Test Document Two](/TestDocumentTwo.md) right here.
